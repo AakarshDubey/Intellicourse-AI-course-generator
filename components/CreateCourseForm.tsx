@@ -123,8 +123,9 @@ const CreateCourseForm = (props: Props) => {
                     type='submit'
                     className='w-full mt-6'
                     size='lg'
+                    
                     >
-                         Lets Go !!
+                        Let's Go !!
                     </Button>
                 </form>
             </Form>
