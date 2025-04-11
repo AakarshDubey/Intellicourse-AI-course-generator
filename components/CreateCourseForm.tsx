@@ -119,13 +119,6 @@ const CreateCourseForm = (props: Props) => {
                         </div>
                         <Separator className='flex-[1]' />
                     </div>
-                    <Button
-                    type='submit'
-                    className='w-full mt-6'
-                    size='lg'
-                    >
-                         Lets Go !!
-                    </Button>
                 </form>
             </Form>
         </div>
